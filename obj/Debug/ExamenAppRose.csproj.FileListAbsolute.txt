@@ -1,0 +1,7 @@
+C:\Users\Bmadj\source\repos\C #\ExamenAppRose\bin\Debug\ExamenAppRose.exe.config
+C:\Users\Bmadj\source\repos\C #\ExamenAppRose\bin\Debug\ExamenAppRose.exe
+C:\Users\Bmadj\source\repos\C #\ExamenAppRose\bin\Debug\ExamenAppRose.pdb
+C:\Users\Bmadj\source\repos\C #\ExamenAppRose\obj\Debug\ExamenAppRose.csproj.AssemblyReference.cache
+C:\Users\Bmadj\source\repos\C #\ExamenAppRose\obj\Debug\ExamenAppRose.csproj.CoreCompileInputs.cache
+C:\Users\Bmadj\source\repos\C #\ExamenAppRose\obj\Debug\ExamenAppRose.exe
+C:\Users\Bmadj\source\repos\C #\ExamenAppRose\obj\Debug\ExamenAppRose.pdb
